@@ -53,3 +53,5 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+Books/CSAPP-3th-ZH-OCR.pdf
