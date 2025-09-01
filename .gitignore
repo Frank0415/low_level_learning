@@ -55,3 +55,10 @@ dkms.conf
 *.dwo
 
 Books/CSAPP-3th-ZH-OCR.pdf
+
+OSTEP/ostep-homework
+OSTEP/ostep-code
+OSTEP/0/2/io
+OSTEP/0/2/cpu
+OSTEP/0/2/mem
+OSTEP/0/2/threads
